@@ -42,15 +42,15 @@ This project involves enhancing object detection capabilities using the YOLOv4 .
 
 ### Usage
 
-# Example script to load and use the trained model
+#Example script to load and use the trained model
 from yolov4 import YOLOv4
-# Initialize detector
+#Initialize detector
 detector = YOLOv4()
-# Load trained weights
+#Load trained weights
 detector.load_weights('<path-to-weights>')
-# Perform detection
+#Perform detection
 detections = detector.detect_objects('<path-to-image>')
-# Print results
+#Print results
 print(detections)
 
 ### Results
