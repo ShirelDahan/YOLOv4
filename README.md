@@ -27,7 +27,7 @@ This project involves enhancing object detection capabilities using the YOLOv4 .
    and if you named your repository something different,
    replace yolov4-custom-detection with your repository’s name.}
 2. **Open Google Colab:**
-   - Upload the notebook files from the colab_notebooks folder to your Google Colab.
+   - Upload the notebook files from the ipynb folder to your Google Colab.
    - Follow the instructions within each notebook.
 
   ### Dataset
